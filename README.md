@@ -4,18 +4,18 @@ Arrays and collections, IEnumerable interface in C#
 ## Project structure
 ```
 .
-├── .gitignore
 ├── LICENSE
-├── MyDictionaryApp
-│   ├── MyDictionaryApp.csproj
-│   └── Program.cs
-├── MyListApp
-│   ├── MyListApp.csproj
-│   └── Program.cs
-├── MyMatrixApp
-│   ├── MyMatrixApp.csproj
-│   └── Program.cs
-└── README.md
+├── README.md
+└── src
+    ├── MyDictionaryApp
+    │   ├── MyDictionaryApp.csproj
+    │   └── Program.cs
+    ├── MyListApp
+    │   ├── MyListApp.csproj
+    │   └── Program.cs
+    └── MyMatrixApp
+        ├── MyMatrixApp.csproj
+        └── Program.cs
 ```
 
 ## License
